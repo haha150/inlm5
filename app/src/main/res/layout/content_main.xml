@@ -13,7 +13,7 @@
             android:layout_height="wrap_content"
             android:lines="21"
             android:scrollHorizontally="false"
-            android:text="TextView"
+            android:scrollbars="vertical"
             android:textSize="18sp" />
     </ScrollView>
 
